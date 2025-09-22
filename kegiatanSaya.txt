@@ -8,7 +8,10 @@ jam 4-10
 
 jam 11-12
 -latihan gym 
+- mandi
 - solat
 - baca qur'an 
 - belajar ngoding
 - makan siang 
+- tidur siang 30 menit
+
