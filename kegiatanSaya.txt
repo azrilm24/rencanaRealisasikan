@@ -17,3 +17,6 @@ jam 11-12
 
 jam sore 
 -olahraga
+
+jam magrib
+-mempelajari hal baru 
