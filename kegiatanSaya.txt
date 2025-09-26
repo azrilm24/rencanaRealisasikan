@@ -15,4 +15,5 @@ jam 11-12
 - tidur siang 15 menit
 - makan siang 
 
-
+jam sore 
+-olahraga
